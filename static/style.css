@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+.centro{
+    margin-left: auto;
+    justify-content: center;
+    display: flex;
+}
+.centralizado div{
+    margin-left: 5px;
+}
+.btn-add{
+    margin-left: 95%;
+    position: fixed;
+    top: 90%;
+}
